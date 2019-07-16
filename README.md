@@ -24,5 +24,5 @@ $: ./sqlcmd -U SA -P UnityJDBC321!
 An image.tar file has not been included here because it is 1.4gb compressed. Building the image is just as easy.
 
 #### Super helpful:
-[Docker Cheat Sheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf)
+[Docker Cheat Sheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf)  
 [How to build MSsql image](https://www.handsonarchitect.com/2018/01/build-custom-sql-server-2017-linux.html)
