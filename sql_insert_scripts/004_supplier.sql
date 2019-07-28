@@ -1,4 +1,4 @@
-USE tpch1g1z
+USE tpch
 go
 
 INSERT INTO supplier VALUES(1,'Supplier#000000001',' N kw4gn1OM Ahw3Sg70BBgQw57lgjzj55R',17,'27-918-335-1736',5755.94,'lLniMi51QPmO1 C2hy27wkN21mmg53 BhQBB1O2x4OmiR4kO5kN1BS 4PwMhk Pk2nRnA2 k');

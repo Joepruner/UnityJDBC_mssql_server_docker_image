@@ -1,4 +1,4 @@
-USE tpch1g1z
+USE tpch
 go
 
 INSERT INTO orders VALUES(1,781,'O',172799.49,'1996-01-02','5-LOW','Clerk#000000951',0,'A0xCm5ARNL mxjChn2kC64xA4L6zBg2O5jhg M42izyPO  QlymN1ky5kmSiSgBAQA');

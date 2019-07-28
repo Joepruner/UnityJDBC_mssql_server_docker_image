@@ -1,4 +1,4 @@
-USE tpch1g1z
+USE tpch
 go
 
 INSERT INTO region VALUES(0,'AFRICA','xSx31zz31Cl1z4OAnmm05AjiOxC3AMMNOgC0kACgwngg3glP7LLLywlQy7R');

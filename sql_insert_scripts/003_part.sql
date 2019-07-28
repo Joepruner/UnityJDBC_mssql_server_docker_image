@@ -1,4 +1,4 @@
-USE tpch1g1z
+USE tpch
 go
 
 INSERT INTO part VALUES(1,'goldenrod lace spring chartreuse ivory','Manufacturer#1','Brand#13','PROMO BURNISHED COPPER',7,'JUMBO PKG',901.00,'zMg1PACmQ 7RCCC7');

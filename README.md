@@ -8,16 +8,16 @@ Clone the repository
 ### Step 3:
 $: cd UnityJDBC_mssql_server_docker_image
 ### Step 4:
-$: docker image build -t custom_mssql_image .
+$: docker image build -t mssql_image .
 ### Step 5:
-$: docker run -it -p 1433:1433 --name custom_mssql_cont custom_mssql_image:latest
+$: docker run -it -p 1433:1433 --name mssql_cont mssql_image:latest
 #### Wait for all inserts to complete. Takes up to 20 mins or so.
 ### Step 6:
-$: docker exec -it custom_mssql_cont bash
+$: docker exec -it mssql_cont bash
 ### Step 7:
 $: cd ../opt/mssql-tools/bin/
 ### Step 8:
-$: ./sqlcmd -U SA -P UnityJDBC321!
+$: ./sqlcmd -U SA -P ujdbc19!#ms
 
 ### And you're in!
 

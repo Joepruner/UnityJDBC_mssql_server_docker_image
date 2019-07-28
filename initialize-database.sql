@@ -1,6 +1,6 @@
-CREATE DATABASE tpch1g1z
+CREATE DATABASE tpch
 go
-USE tpch1g1z
+USE tpch
 go
 
 create table part

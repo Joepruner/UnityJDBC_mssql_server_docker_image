@@ -1,4 +1,4 @@
-USE tpch1g1z
+USE tpch
 go
 
 INSERT INTO nation VALUES(0,'ALGERIA',0,'2Cxhl7 L1iwk6hMh300izngN32CPwCikyLk6khMzSRA');
